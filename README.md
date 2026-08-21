@@ -8,7 +8,7 @@ stuff i made (or helped make)
 
 [keinobjekt/bcfeed (PR #1)](https://github.com/keinobjekt/bcfeed/pull/1)
 
-
+<br>
 
 [ellienieuwdorp/crates-ios](https://github.com/ellienieuwdorp/crates-ios)
 
@@ -16,9 +16,9 @@ stuff i made (or helped make)
 
 [ellienieuwdorp/crates-api](https://github.com/ellienieuwdorp/crates-api)
 
+<br>
 
-
-<sub>~~silly</sub>~~
+<sup>~~silly</sup>~~
 
 [music discovery visualization experiment](https://www.youtube.com/watch?v=VwqikRH3cxQ)
 
