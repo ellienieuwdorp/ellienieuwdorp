@@ -2,7 +2,7 @@ stuff i made (or helped make)
 
 ---
 
-[app.wavfeed.com](https://app.wavfeed.com/)
+[wavfeed.com](https://wavfeed.com/)
 
 [epiphany-records.vercel.app](https://epiphany-records.vercel.app/)
 
