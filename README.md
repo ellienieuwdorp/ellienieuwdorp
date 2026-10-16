@@ -4,6 +4,9 @@ stuff i made (or helped make)
 
 [wavfeed.com](https://wavfeed.com/)
 
+[xmpp.haus](https://xmpp.haus/) - Native XMPP messenger for iPhone (and maybe eventually Mac) with OMEMO encryption ([source](https://github.com/ellienieuwdorp/haus-xmpp/tree/main))
+
+
 [draaimolen-timetable.saus.haus](https://draaimolen-timetable.saus.haus/)
 
 [epiphany-records.vercel.app](https://epiphany-records.vercel.app/)
