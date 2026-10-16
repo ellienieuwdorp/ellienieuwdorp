@@ -1,4 +1,4 @@
-stuff i made (or helped make)
+stuff i made
 
 ---
 
