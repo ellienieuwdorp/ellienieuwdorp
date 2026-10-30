@@ -7,7 +7,7 @@ stuff i made
 [xmpp.haus](https://xmpp.haus/) - Native XMPP messenger for iPhone and Mac with OMEMO encryption ([source](https://github.com/ellienieuwdorp/haus-xmpp/tree/main))
 
 
-[draaimolen-timetable.saus.haus](https://draaimolen-timetable.saus.haus/)
+[draaimolen-timetable.saus.haus](https://draaimolen-timetable.saus.haus/) - Interactive timetable for Draaimolen Festival 2026 that works offline
 
 [epiphany-records.vercel.app](https://epiphany-records.vercel.app/)
 
