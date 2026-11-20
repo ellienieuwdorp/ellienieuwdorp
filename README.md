@@ -2,7 +2,7 @@ stuff i made
 
 ---
 
-[wavfeed.com](https://wavfeed.com/) - Mobile app with polished UX for keeping up with Bandcamp releases & discovering music
+[wavfeed.com](https://wavfeed.com/) - Mobile app with polished UX for keeping up with Bandcamp releases & discovering music ([source](https://github.com/ellienieuwdorp/wavfeed-mobile))
 
 [xmpp.haus](https://xmpp.haus/) - Native XMPP messenger for iPhone and Mac with OMEMO encryption ([source](https://github.com/ellienieuwdorp/haus-xmpp/tree/main))
 
